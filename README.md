@@ -54,7 +54,8 @@ Os resultados foram apresentados em gráficos de barras e linhas, mostrando a pr
 ### Visualizações
 
 #### Horas Trabalhadas por Dia
-![Horas Trabalhadas por Dia](images/horas_trabalhadas.png)
+![Horas Trabalhadas por Dia](![image](https://github.com/IgorCostaRodrigues/Projeto-Individual-M3/assets/113060886/fd50201e-ef06-4574-8da2-68d911a7efdc)
+)
 
 #### Bugs Corrigidos por Dia
 ![Bugs Corrigidos por Dia](images/bugs_corrigidos.png)
@@ -83,8 +84,9 @@ Os resultados foram apresentados em gráficos de barras e linhas, mostrando a pr
 # 🙏 Obrigado! 😺
 
 <div align="center">
-  <img src="![image](https://github.com/IgorCostaRodrigues/Projeto-Individual-M3/assets/113060886/c9b6e348-1ebd-4b8e-a65b-89e42f07a781)
-" width="200" height="200">
+ <img src="https://github.com/IgorCostaRodrigues/Projeto-Individual-M3/assets/113060886/217d94f8-1ff0-44d5-92a3-8053c538c5d6"
+" 
+width="200" height="200">
 </div>
 <div align="center">
   <sub>Desenvolvido com ❤ por [Igor Costa Rodrigues](https://github.com/IgorCostaRodrigues).</sub>
