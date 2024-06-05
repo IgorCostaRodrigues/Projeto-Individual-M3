@@ -57,7 +57,6 @@ Os resultados foram apresentados em gráficos de barras e linhas, mostrando a pr
 
 <div align="center">
  <img src="https://github.com/IgorCostaRodrigues/Projeto-Individual-M3/assets/113060886/a589b9dd-57dc-4e29-aaef-f29f8a696325"
-" 
 width="500" height="300">
 </div>
 
@@ -65,19 +64,18 @@ width="500" height="300">
 
 <div align="center">
  <img src="https://github.com/IgorCostaRodrigues/Projeto-Individual-M3/assets/113060886/cf67b68a-5fa4-4e74-b662-882cdcfa6b68"
-" 
 width="500" height="300">
 </div>
+
 #### Tarefas Concluídas por Dia
 <div align="center">
  <img src="https://github.com/IgorCostaRodrigues/Projeto-Individual-M3/assets/113060886/c4a68974-7346-46a2-97c4-2b8440d896ab"
-" 
 width="500" height="300">
 </div>
+
 #### Produtividade Diária
 <div align="center">
  <img src="https://github.com/IgorCostaRodrigues/Projeto-Individual-M3/assets//113060886/e3782700-117a-42ee-966c-c3c4322e304e"
-" 
 width="500" height="300">
 </div>
 
